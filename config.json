@@ -1,0 +1,15 @@
+{
+    "dbInfo": {
+        "host": "127.0.0.1",
+        "user": "root",
+        "password": "",
+        "database": "whitelist",
+        "port": 3306
+    },
+    "panelInfo": {
+        "communityName": "Next Solutions",
+        "port": 8080,
+        "sessionSecret": "RaNdOm TeXt",
+        "sslEnabled": false
+    }
+}
